@@ -31,7 +31,7 @@ The model was evaluated using:
 Accuracy: 97.37%
 
 ## Libraries
--Scikit_learn
+
 
 - Python
 - Scikit-learn
